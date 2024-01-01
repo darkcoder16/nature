@@ -1,0 +1,48 @@
+body {
+    background-image: url("street.jpg");
+    background-size: cover;
+}
+
+
+#box {
+    text-align: center;
+    color: aliceblue;
+    height: 200px;
+    width: 200px;
+    border : 2px solid black ;
+    background-image: url("nature.jpg");
+    display : inline-block ;
+    background-size: cover;
+    position : fixed ; 
+    top : 20px ; 
+
+}
+
+#box2 {
+    text-align: center ;
+    color: whitesmoke;
+    height: 200px;
+    width: 200px;
+    border : 2px solid black ;
+    background-image: url("nature2.jpg");
+    display : inline-block ;
+    background-size: cover;
+    position: fixed;
+    right : 20px ;
+    top : 20px ;
+    
+}
+
+h1 {
+    color : black ;
+    text-align: center ;
+}
+
+#p1 {
+    /* color : white ; */
+    text-align: center ;
+}
+#p2 {
+    /* color : white ; */
+    text-align: center ;
+}
